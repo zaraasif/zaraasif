@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaraasif
-- 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on react.js
+- 👀 I’m interested in Data Science and Machine learning 
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning Algos
 - 😄 Pronouns: She/her
   
 
